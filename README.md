@@ -5,6 +5,7 @@ C++ generating random point within a circle with a uniform distribution.
 │ rpoint-circle
 └─> g++ main.cpp -O2 -o rpoint -march=native
 
+```
 ┌───────────────────>
 │ rpoint-circle
 └─> ./rpoint
@@ -23,3 +24,4 @@ Sum Time:
 │ rpoint-circle
 └─>
 
+```
