@@ -1,10 +1,13 @@
 # rpoint-circle
 C++ generating random point within a circle with a uniform distribution.
 
+Compile Flags
+```
 ┌───────────────────>
 │ rpoint-circle
 └─> g++ main.cpp -O2 -o rpoint -march=native
-
+```
+Results
 ```
 ┌───────────────────>
 │ rpoint-circle
